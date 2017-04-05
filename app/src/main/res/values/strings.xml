@@ -1,5 +1,23 @@
 <resources>
-    <string name="app_name">HolaMundo App</string>
+    <string name="app_name">Taller de Android</string>
     <string name="hola_mundo">Hola mundo</string>
-    <string name="hola_mundo2">H3l10 W0r1d</string>
+    <string name="tareas">Tareas semanales</string>
+    <string name="tarea_1">Tarea 1</string>
+    <string name="tarea_2">Tarea 2</string>
+    <string name="tarea_3">Tarea 3</string>
+    <string name="volver">Volver</string>
+    <string name="placeholder">Pronto…</string>
+    <string name="tarea1">Tarea 1: Consiste en crear un Hola Mundo en la aplicación,
+        si bien se creó en el main, se trasladó a una actividad aparte.</string>
+    <string name="tarea2">Tarea 2: Consiste en pasar de una actividad a otra. Esta
+        actividad suma los dos números y envía el resultado a otra actividad que lo muestra.</string>
+    <string name="tarea2b">*Esta actividad recibió el resultado de la suma realizada en la actividad
+        anterior. No es como me hubiera gustado hacerlo, pero sirve para efectos de la tarea.</string>
+
+    <string name="sumar2numeros">Sumar dos numeros</string>
+    <string name="signomas">+</string>
+    <string name="hintSuma">0</string>
+    <string name="signoIgual">=</string>
+    <string name="resultado">Resultado:</string>
+
 </resources>

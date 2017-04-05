@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Tarea1" />
+        <activity android:name=".Tarea2" />
+        <activity android:name=".Tarea2b" />
+        <activity android:name=".Tarea3"></activity>
     </application>
 
 </manifest>
