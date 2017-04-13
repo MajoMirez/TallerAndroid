@@ -1,9 +1,13 @@
 package com.example.majo.myapplication;
 
+import android.content.BroadcastReceiver;
+import android.content.Context;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.TextView;
+
 import butterknife.BindView;
 import butterknife.OnClick;
 
@@ -32,7 +36,13 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         }
     }
+
+
+
 }
+
+
+
 
     /*
     @BindView(R.id.editTextNombreUsuario)
